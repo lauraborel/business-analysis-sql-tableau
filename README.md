@@ -52,7 +52,7 @@ The dataset has information of 100k orders from 2016 to 2018 made at multiple ma
 Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. We also released a geolocation dataset that relates Brazilian zip codes to lat/lng coordinates.
 
 ### Database Schema
-[Magist Database schema](https://github.com/lauraborel/business-analysis-sql-tableau/blob/main/EER_Magist.png)
+![Magist Database schema](https://github.com/lauraborel/business-analysis-sql-tableau/blob/main/EER_Magist.png)
 
 Basic Description of Tables and their Relations
 Let’s focus first of all on some tables that are just collections of items, independent of any transaction.
