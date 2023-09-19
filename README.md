@@ -55,6 +55,7 @@ Its features allows viewing an order from multiple dimensions: from order status
 ![Magist Database schema](https://github.com/lauraborel/business-analysis-sql-tableau/blob/main/EER_Magist.png)
 
 Basic Description of Tables and their Relations
+
 Let’s focus first of all on some tables that are just collections of items, independent of any transaction.
 
 Unless a new customer makes a purchase, a new product is released, or a new seller is registered, these tables remain unchanged during a transaction:
