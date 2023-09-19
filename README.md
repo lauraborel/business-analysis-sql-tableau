@@ -9,7 +9,7 @@
 5. [Files in this repository](#filesinthisrepository)
 
 ### Introduction
-E-commerce company on the potential merger 
+E-commerce company explores potential merger 
 
 Eniac is exploring an expansion to the Brazilian market. The company doesn't have experience in this market or ties with local providers, package delivery services, or customer service agencies. 
 The eCommerce company is researching whether to merge with Magist, which is a Brazilian Software as a Service company that offers a centralized order management system to connect small and medium-sized stores with the biggest Brazilian marketplaces. 
